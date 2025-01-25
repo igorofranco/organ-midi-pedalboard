@@ -8,7 +8,7 @@ Buying a digital organ in Brazil is not for everyone, so I built my own.
 
 ## Number of keys
 
-You can change the number of keys inside the `for`, and that number should be the same amount of `false` in `wasKeyDown[]`.
+You can change the number of keys inside the `for`, and that number should be the same amount of `false`s in `wasKeyDown[]`.
 
 ## Take a look
 

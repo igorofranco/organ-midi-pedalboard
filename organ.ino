@@ -22,7 +22,7 @@ void setup() {
 }
 
 void loop() {
-  for (int i = 0; i < 27; i++) {
+  for (int i = 0; i < 32; i++) {
     int value;
     if (i < 16) {
       value = mplex.readChannel(i);
